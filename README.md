@@ -1,2 +1,6 @@
 # living-algorithms
-This project introduces a paradigm where the algorithms themselves evolve like living organisms. Rather than only tuning parameters or outputs, each algorithm’s logic and structure mutate, crossover, and self-repair across generations. A population of small programs (expression trees) acts as digital organisms.
+This project introduces a paradigm where the algorithms themselves evolve like living organisms. Rather than only tuning parameters or outputs, each algorithm’s logic and structure mutate, crossover, and self-repair across generations. A population of small programs (expression trees) acts as digital organisms. Each organism defines its own method to generate creative outputs—images, audio, or dynamic patterns.
+
+A fitness function evaluates these evolving algorithms on criteria such as novelty, aesthetics, or task performance. The fittest survive and reproduce, combining and mutating their internal code to discover entirely new approaches over time. This process leads to unique, non-repeating algorithms capable of producing emergent behaviors and creative content without direct human design.
+
+The system includes safe execution and protected mathematical operations to avoid crashes, plus support for rendering outputs to visuals or sound. It demonstrates evolutionary computation applied to generative AI and artificial life, offering a foundation for research and innovation. Each run produces distinct results, showing how autonomous algorithmic evolution can drive creative computation and potentially patentable software ideas.
