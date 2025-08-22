@@ -1,0 +1,9 @@
+numpy>=1.21.0
+pillow>=8.3.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+pytest>=6.2.0
+click>=8.0.0
+librosa>=0.9.0
+soundfile>=0.10.0
+numba>=0.56.0
